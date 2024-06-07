@@ -55,7 +55,7 @@ def nothing(x):
 
 cv2.createTrackbar('threshold', 'image', 0, 255, nothing)
 
-while (True):
+while True:
     ret, img = cap.read()
     gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
     rects = detector(gray, 1)
