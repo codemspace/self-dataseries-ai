@@ -4,5 +4,5 @@ https://medium.com/dataseries/designing-image-filters-using-opencv-like-abode-ph
 2. eye-tracking
 https://towardsdatascience.com/real-time-eye-tracking-using-opencv-and-dlib-b504ca724ac6
 
-3. face-detection
+3. face-detection and video_face(camera)
 https://github.com/vardanagarwal/Proctoring-AI/blob/master/face_detection/faces_detection.py
